@@ -7,6 +7,8 @@
 
 **[About](#about) - [Usage](#usage)** - [License](#license)
 
+> **Note**
+> This lib is not finished, more features is planned.
 </div>
 
 ---
