@@ -18,7 +18,9 @@ This lib is a Google Trends RSS parser. That's it
 ## Usage
 
 ```nim
+import std/json
 import pkg/gtrends
+
 echo pretty %*getDailyTrending()[]
 ```
 
